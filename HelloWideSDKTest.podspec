@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "https://github.com/aw0908/HelloWideSDKTest"
   s.license = { :type => "MIT", :text => "MIT License" }
-  s.author       = { "AW" => "ardywijaya1997@gmail.com" }
+  s.author       = { "Ardy Wijaya" => "ardy.wijaya@primecash.co.id" }
   s.platform     = :ios, "12.0"
   s.ios.deployment_target = "12.0"
   s.source = { :http => 'https://maven.primecash.co.id/repository/maven-releases/id/co/widetechnologies/component/mobile/hellowide-ios/5.0.2/hellowide-ios-5.0.2.zip' }
