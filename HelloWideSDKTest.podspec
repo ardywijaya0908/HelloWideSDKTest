@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "HelloWideSDKTest"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "HelloWideSDKTest for iOS Testing Purpose"
   s.description  = <<-DESC
   HelloWideSDKTest is is a WebRTC compatible, free and Open Source video conferencing system that provides browsers and mobile applications with Real Time Communications capabilities.
