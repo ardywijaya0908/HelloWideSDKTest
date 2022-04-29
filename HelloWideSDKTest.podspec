@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|
 
   s.name         = "HelloWideSDKTest"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "HelloWideSDKTest for iOS Testing Purpose"
   s.description  = <<-DESC
   HelloWideSDKTest is is a WebRTC compatible, free and Open Source video conferencing system that provides browsers and mobile applications with Real Time Communications capabilities.
                    DESC
   s.homepage     = "https://github.com/aw0908/HelloWideSDKTest"
   s.license = { :type => "MIT", :text => "MIT License" }
-  s.author       = { "Ardy Wijaya" => "ardy.wijaya@primecash.co.id" }
+  s.author       = { "AW" => "ardywijaya1997@gmail.com" }
   s.platform     = :ios, "12.0"
   s.ios.deployment_target = "12.0"
   s.source = { :http => 'https://maven.primecash.co.id/repository/maven-releases/id/co/widetechnologies/component/mobile/hellowide-ios/5.0.2/hellowide-ios-5.0.2.zip' }
